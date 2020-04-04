@@ -1,0 +1,14 @@
+.Button {
+  background-color: #282c34;
+  color: white;
+  font-size: calc(10px + 2vmin);
+  margin: 0.3em;
+  border: none;
+}
+
+.Button:focus{
+  transition: 2s;
+  transform: scale(1.5);
+  transform: scale(1.5) rotate(360deg)
+}
+
