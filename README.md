@@ -1,5 +1,5 @@
 # react-rock-paper-scissors
-Rock Paper Scissors game created as part of [The Odin Project](https://www.theodinproject.com/)'s JavaScript Frameworks curriculum. Hosted [here](https://barrysweeney.github.io/react-rock-paper-scissors/) using Github Pages  
+Rock Paper Scissors game created as part of [The Odin Project](https://www.theodinproject.com/)'s JavaScript Frameworks curriculum. Hosted [here](https://barrysweeney.github.io/react-rock-paper-scissors/) using Github Pages.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
