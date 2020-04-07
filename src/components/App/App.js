@@ -16,6 +16,8 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <p>Rock Paper Scissors</p>
+          </header>
+          <div className="App-header">
           <Button
             value="Rock"
             icon={<i className="fas fa-hand-rock fa-5x"></i>}
@@ -32,7 +34,7 @@ class App extends React.Component {
             onClick={(value) => this.handleClick(value)}
           />
           <Status text={this.state.result} />
-        </header>
+          </div>
       </div>
     );
   }
